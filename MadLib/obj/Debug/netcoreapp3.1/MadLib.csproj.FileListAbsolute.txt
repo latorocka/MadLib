@@ -1,0 +1,13 @@
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.exe
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.deps.json
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.runtimeconfig.json
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.runtimeconfig.dev.json
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.dll
+C:\Users\Latorocka\source\repos\MadLib\MadLib\bin\Debug\netcoreapp3.1\MadLib.pdb
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.csprojAssemblyReference.cache
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.AssemblyInfoInputs.cache
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.AssemblyInfo.cs
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.dll
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.pdb
+C:\Users\Latorocka\source\repos\MadLib\MadLib\obj\Debug\netcoreapp3.1\MadLib.genruntimeconfig.cache
